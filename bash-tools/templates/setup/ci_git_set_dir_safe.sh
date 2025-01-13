@@ -10,7 +10,7 @@
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback to help steer this or other code I publish
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 # Necessary for some CI/CD systems like Azure DevOps Pipelines which have incorrect ownership on the git checkout dir triggering this error:

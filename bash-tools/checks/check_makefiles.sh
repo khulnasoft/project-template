@@ -11,7 +11,7 @@
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 set -euo pipefail

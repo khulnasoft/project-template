@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/khulnasoft/devops-golang-tools?logo=github)](https://github.com/KhulnaSoft/DevX/tree/main/tools/golang/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/khulnasoft/devops-golang-tools?logo=github)](https://github.com/KhulnaSoft/DevX/tree/main/tools/golang/network)
 [![License](https://img.shields.io/github/license/KhulnaSoft/DevX/tree/main/tools/golang)](https://github.com/KhulnaSoft/DevX/tree/main/tools/golang/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-KhulnaSoft-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/KhulnaSoft/)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-KhulnaSoft-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/company/khulnasoft/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/KhulnaSoft/DevX/tree/main/tools/golang?logo=github)](https://github.com/KhulnaSoft/DevX/tree/main/tools/golang/commits/master)
 <!-- doesn't include /tests?/ or comments
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=KhulnaSoft_DevOps-Golang-tools&metric=ncloc)](https://sonarcloud.io/dashboard?id=KhulnaSoft_DevOps-Golang-tools)
@@ -117,7 +117,7 @@ KhulnaSoft Ltd
 
 Cloud & Big Data Contractor, United Kingdom
 
-[https://www.linkedin.com/in/KhulnaSoft](https://www.linkedin.com/in/KhulnaSoft)
+[https://www.linkedin.com/company/khulnasoft](https://www.linkedin.com/company/khulnasoft)
 <br>*(you're welcome to connect with me on LinkedIn)*
 
 **Make sure you run `make update` if updating and not just `git pull` as you will often need the latest library submodule and possibly new upstream libraries**

@@ -6,7 +6,7 @@
 #
 #  License: see accompanying LICENSE file
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 # Travis has custom python install earlier in $PATH even in Perl builds so need to install PyPI modules to non-system python otherwise they're not found by programs.

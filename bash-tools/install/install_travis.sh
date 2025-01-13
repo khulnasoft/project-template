@@ -7,7 +7,7 @@
 #
 #  License: see accompanying LICENSE file
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 # Installs the Travis CI gem to home dir, logs in and generates a $TRAVIS_TOKEN

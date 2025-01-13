@@ -7,7 +7,7 @@
 #
 #  License: see accompanying LICENSE file
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 # Installs the SSH Key(s) from user's GitHub to the local $HOME/.ssh/authorized_keys

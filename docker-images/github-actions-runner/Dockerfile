@@ -8,7 +8,7 @@
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback to help improve or steer this or other code I publish
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 # nosemgrep: dockerfile.audit.dockerfile-source-not-pinned.dockerfile-source-not-pinned
@@ -18,7 +18,7 @@ ARG GITHUB_ACTIONS_RUNNER_VERSION=2.284.0
 
 LABEL org.opencontainers.image.description="GitHub Actions Runner" \
       org.opencontainers.image.version="$GITHUB_ACTIONS_RUNNER_VERSION" \
-      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/in/KhulnaSoft)" \
+      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/company/khulnasoft)" \
       org.opencontainers.image.url="https://ghcr.io/KhulnaSoft/github-actions-runner" \
       org.opencontainers.image.documentation="https://hub.docker.com/r/khulnasoft/github-actions-runner" \
       org.opencontainers.image.source="https://github.com/KhulnaSoft/DevX/tree/main/docker-images"

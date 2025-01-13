@@ -7,7 +7,7 @@
 #
 #  License: see accompanying LICENSE file
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 # https://docs.github.com/en/rest/reference/users#list-gpg-keys-for-a-user

@@ -1,4 +1,4 @@
-module github.com/khulnasoft/go-tools
+module go-tools
 
 go 1.14
 

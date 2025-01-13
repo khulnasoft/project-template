@@ -8,7 +8,7 @@
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 # nosemgrep: dockerfile.audit.dockerfile-source-not-pinned.dockerfile-source-not-pinned
@@ -18,7 +18,7 @@ ARG HBASE_VERSION=2.1.3
 
 LABEL org.opencontainers.image.description="HBase" \
       org.opencontainers.image.version="$HBASE_VERSION" \
-      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/in/KhulnaSoft)" \
+      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/company/khulnasoft)" \
       org.opencontainers.image.url="https://ghcr.io/KhulnaSoft/hbase" \
       org.opencontainers.image.documentation="https://hub.docker.com/r/khulnasoft/hbase" \
       org.opencontainers.image.source="https://github.com/KhulnaSoft/DevX/tree/main/docker-images"

@@ -7,7 +7,7 @@
 #
 #  License: see accompanying LICENSE file
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 # from https://stackoverflow.com/questions/24287239/abort-trap-6-when-running-a-python-script

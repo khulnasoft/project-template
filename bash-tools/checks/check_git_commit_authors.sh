@@ -11,7 +11,7 @@
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 # Various Git log author commit checks against Name / Email / Domain inconsistencies to catch committing with the wrong or default user.name / user.email

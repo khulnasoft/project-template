@@ -8,7 +8,7 @@
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback to help improve or steer this or other code I publish
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 # nosemgrep: dockerfile.audit.dockerfile-source-not-pinned.dockerfile-source-not-pinned
@@ -18,7 +18,7 @@ ARG JYTHON_VERSION=2.7.0
 
 LABEL org.opencontainers.image.description="Jython $JYTHON_VERSION on Alpine + OpenJDK, minimal container" \
       org.opencontainers.image.version="$JYTHON_VERSION" \
-      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/in/KhulnaSoft)" \
+      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/company/khulnasoft)" \
       org.opencontainers.image.url="https://ghcr.io/KhulnaSoft/jython" \
       org.opencontainers.image.documentation="https://hub.docker.com/r/khulnasoft/jython" \
       org.opencontainers.image.source="https://github.com/KhulnaSoft/DevX/tree/main/docker-images"

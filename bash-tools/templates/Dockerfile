@@ -71,7 +71,7 @@ ENV PYTHONUNBUFFERED 1
 
 LABEL org.opencontainers.image.description="NAME" \
       org.opencontainers.image.version="$NAME_VERSION" \
-      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/in/KhulnaSoft)" \
+      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/company/khulnasoft)" \
       org.opencontainers.image.url="https://ghcr.io/KhulnaSoft/REPO" \
       org.opencontainers.image.documentation="https://hub.docker.com/r/khulnasoft/REPO" \
       org.opencontainers.image.source="https://github.com/KhulnaSoft/DevX/tree/main/docker-images"

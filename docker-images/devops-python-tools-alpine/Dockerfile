@@ -8,7 +8,7 @@
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback to help improve or steer this or other code I publish
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 # Alpine's underlying libraries are causing find_active_server.py --https mode to run all threads concurrently without respecting the --num causing indeterministic results and failing tests/test_find_active_server.sh
@@ -16,7 +16,7 @@
 FROM alpine:3.20
 
 LABEL org.opencontainers.image.description="Python Tools (Alpine)" \
-      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/in/KhulnaSoft)" \
+      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/company/khulnasoft)" \
       org.opencontainers.image.url="https://ghcr.io/KhulnaSoft/pytools" \
       org.opencontainers.image.documentation="https://hub.docker.com/r/khulnasoft/pytools" \
       org.opencontainers.image.source="https://github.com/KhulnaSoft/DevX/tree/main/docker-images"

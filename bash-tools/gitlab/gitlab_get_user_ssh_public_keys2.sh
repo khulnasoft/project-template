@@ -7,7 +7,7 @@
 #
 #  License: see accompanying LICENSE file
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 # https://docs.gitlab.com/ee/api/users.html#list-ssh-keys

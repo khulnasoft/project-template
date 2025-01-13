@@ -8,7 +8,7 @@
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback to help improve or steer this or other code I publish
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 #FROM fedora:latest
@@ -17,7 +17,7 @@
 FROM fedora:34
 
 LABEL org.opencontainers.image.description="Advanced Nagios Plugins Collection (Fedora)" \
-      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/in/KhulnaSoft)" \
+      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/company/khulnasoft)" \
       org.opencontainers.image.url="https://ghcr.io/KhulnaSoft/nagios-plugins" \
       org.opencontainers.image.documentation="https://hub.docker.com/r/khulnasoft/nagios-plugins" \
       org.opencontainers.image.source="https://github.com/KhulnaSoft/DevX/tree/main/docker-images"

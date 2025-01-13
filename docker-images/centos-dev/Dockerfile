@@ -8,14 +8,14 @@
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback to help improve or steer this or other code I publish
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 # nosemgrep: dockerfile.audit.dockerfile-source-not-pinned.dockerfile-source-not-pinned
 FROM khulnasoft/centos-scala:2.11-jdk8
 
 LABEL org.opencontainers.image.description="CentOS Dev Build" \
-      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/in/KhulnaSoft)" \
+      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/company/khulnasoft)" \
       org.opencontainers.image.url="https://ghcr.io/KhulnaSoft/centos-dev" \
       org.opencontainers.image.documentation="https://hub.docker.com/r/khulnasoft/centos-dev" \
       org.opencontainers.image.source="https://github.com/KhulnaSoft/DevX/tree/main/docker-images"

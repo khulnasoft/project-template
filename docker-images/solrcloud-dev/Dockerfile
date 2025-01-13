@@ -8,7 +8,7 @@
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback to help steer this or other code I publish
 #
-#  https://www.linkedin.com/in/KhulnaSoft
+#  https://www.linkedin.com/company/khulnasoft
 #
 
 # nosemgrep: dockerfile.audit.dockerfile-source-not-pinned.dockerfile-source-not-pinned
@@ -18,7 +18,7 @@ ARG SOLRCLOUD_VERSION=7.7.1
 
 LABEL org.opencontainers.image.description="SolrCloud + Nagios Plugins" \
       org.opencontainers.image.version="$SOLRCLOUD_VERSION" \
-      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/in/KhulnaSoft)" \
+      org.opencontainers.image.authors="KhulnaSoft Ltd (https://www.linkedin.com/company/khulnasoft)" \
       org.opencontainers.image.url="https://ghcr.io/KhulnaSoft/solrcloud-dev" \
       org.opencontainers.image.documentation="https://hub.docker.com/r/khulnasoft/solrcloud-dev" \
       org.opencontainers.image.source="https://github.com/KhulnaSoft/DevX/tree/main/docker-images"
