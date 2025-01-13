@@ -15,8 +15,8 @@
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=KhulnaSoft_Packer&metric=security_rating)](https://sonarcloud.io/dashboard?id=KhulnaSoft_Packer)
 
 ![HCL](https://img.shields.io/badge/Hashicorp%20Packer-HCL-blue)
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/KhulnaSoft/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/KhulnaSoft/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/KhulnaSoft/DevOps-Bash-tools#khulnasoft---devops-bash-tools)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/KhulnaSoft/DevOps-Bash-tools#khulnasoft---devops-bash-tools)
 
 [![Mac Homebrew](https://img.shields.io/badge/Mac-Homebrew-999999?logo=apple&logoColor=white)](https://brew.sh/)
 [![CentOS](https://img.shields.io/badge/Linux-CentOS-262577?logo=centos&logoColor=white)](https://www.centos.org/)

@@ -4,7 +4,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/40a82d53f3394f4b99aa6eccb08e3c8d)](https://www.codacy.com/gh/KhulnaSoft/DevX/tree/main/tools/python/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KhulnaSoft/DevX/tree/main/tools/python&amp;utm_campaign=Badge_Grade)
 [![GitHub stars](https://img.shields.io/github/stars/khulnasoft/devops-python-tools.svg)](https://github.com/KhulnaSoft/DevX/tree/main/tools/python/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/khulnasoft/devops-python-tools.svg)](https://github.com/KhulnaSoft/DevX/tree/main/tools/python/network)
-[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20OS%20X-blue.svg)](https://github.com/KhulnaSoft/DevX/tree/main/tools/python#hari-sekhon-pytools)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20OS%20X-blue.svg)](https://github.com/KhulnaSoft/DevX/tree/main/tools/python#khulnasoft-pytools)
 [![DockerHub](https://img.shields.io/badge/docker-available-blue.svg)](https://hub.docker.com/r/khulnasoft/pytools/)
 [![DockerHub Pulls](https://img.shields.io/docker/pulls/khulnasoft/pytools?label=DockerHub%20pulls&logo=docker&logoColor=white)](https://hub.docker.com/r/khulnasoft/pytools)
 

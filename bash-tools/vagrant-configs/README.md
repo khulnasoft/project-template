@@ -14,8 +14,8 @@
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=KhulnaSoft_Vagrant-templates&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=KhulnaSoft_Vagrant-templates)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=KhulnaSoft_Vagrant-templates&metric=security_rating)](https://sonarcloud.io/dashboard?id=KhulnaSoft_Vagrant-templates)
 
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/KhulnaSoft/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/KhulnaSoft/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/KhulnaSoft/DevOps-Bash-tools#khulnasoft---devops-bash-tools)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/KhulnaSoft/DevOps-Bash-tools#khulnasoft---devops-bash-tools)
 
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://khulnasoft.github.io/CI-CD/)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/KhulnaSoft/DevX/tree/main/bash-tools/vagrant-configs)

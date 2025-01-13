@@ -12,9 +12,9 @@
 
 # Installs BuildKite using Homebrew on Mac or direct download to ~/bin otherwise
 
-# https://buildkite.com/organizations/hari-sekhon/agents#setup-linux
+# https://buildkite.com/organizations/khulnasoft/agents#setup-linux
 #
-# https://buildkite.com/organizations/hari-sekhon/agents#setup-macos
+# https://buildkite.com/organizations/khulnasoft/agents#setup-macos
 
 set -euo pipefail
 [ -n "${DEBUG:-}" ] && set -x

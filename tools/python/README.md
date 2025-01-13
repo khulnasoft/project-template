@@ -43,7 +43,7 @@
 [![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/KhulnaSoft/TeamCity-CI)
 
 [![CircleCI](https://circleci.com/gh/KhulnaSoft/DevX/tree/main/tools/python.svg?style=svg)](https://circleci.com/gh/KhulnaSoft/DevX/tree/main/tools/python)
-[![BuildKite](https://img.shields.io/buildkite/8377537d0d9dddf4bf32826a6bf1c4e9ab88bc265007e1882c/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/devops-python-tools)
+[![BuildKite](https://img.shields.io/buildkite/8377537d0d9dddf4bf32826a6bf1c4e9ab88bc265007e1882c/master?label=BuildKite&logo=buildkite)](https://buildkite.com/khulnasoft/devops-python-tools)
 [![AppVeyor](https://img.shields.io/appveyor/build/khulnasoft/DevOps-Python-tools/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/KhulnaSoft/DevX/tree/main/tools/python/branch/master)
 [![Drone](https://img.shields.io/drone/build/KhulnaSoft/DevX/tree/main/tools/python/master?logo=drone&label=Drone)](https://cloud.drone.io/KhulnaSoft/DevX/tree/main/tools/python)
 [![Codefresh](https://g.codefresh.io/api/badges/pipeline/khulnasoft/GitHub%2FDevOps-Python-tools?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&type=cf-1)](https://g.codefresh.io/pipelines/edit/new/builds?id=5e58e2e6353f5d1ada385bf2&pipeline=DevOps-Python-tools&projects=GitHub&projectId=5e52ca8ea284e00f882ea992&context=github&filter=page:1;pageSize:10;timeFrameStart:week)

@@ -15,8 +15,8 @@
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=KhulnaSoft_Ansible&metric=security_rating)](https://sonarcloud.io/dashboard?id=KhulnaSoft_Ansible)
 
 ![Python](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/KhulnaSoft/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/KhulnaSoft/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/KhulnaSoft/DevOps-Bash-tools#khulnasoft---devops-bash-tools)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/KhulnaSoft/DevOps-Bash-tools#khulnasoft---devops-bash-tools)
 
 [![Mac Homebrew](https://img.shields.io/badge/Mac-Homebrew-999999?logo=apple&logoColor=white)](https://brew.sh/)
 [![Alpine](https://img.shields.io/badge/Linux-Alpine-0D597F?logo=alpine%20linux)](https://alpinelinux.org/)

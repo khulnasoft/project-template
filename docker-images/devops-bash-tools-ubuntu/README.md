@@ -4,7 +4,7 @@
 [![Codacy](https://app.codacy.com/project/badge/Grade/dffc1bfd13404c95b5a0ab97fd47974e)](https://www.codacy.com/gh/KhulnaSoft/DevOps-Bash-tools/dashboard)
 [![GitHub stars](https://img.shields.io/github/stars/khulnasoft/devops-bash-tools.svg)](https://github.com/KhulnaSoft/DevOps-Bash-tools/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/khulnasoft/devops-bash-tools.svg)](https://github.com/KhulnaSoft/DevOps-Bash-tools/network)
-[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20OS%20X-blue.svg)](https://github.com/khulnasoft/bash-tools#hari-sekhon---bash-tools)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20OS%20X-blue.svg)](https://github.com/khulnasoft/bash-tools#khulnasoft---bash-tools)
 [![DockerHub](https://img.shields.io/badge/docker-available-blue.svg)](https://hub.docker.com/r/khulnasoft/bash-tools/)
 
 700+ Shell Scripts, Advanced Bash environment & Utility Code Library used by all my other [GitHub](https://github.com/khulnasoft) repos [CI builds](https://github.com/KhulnaSoft/DevOps-Bash-tools/blob/master/Status.md).

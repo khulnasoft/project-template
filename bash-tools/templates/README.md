@@ -83,7 +83,7 @@ Forked from [DevOps Perl tools](https://github.com/KhulnaSoft/DevOps-Perl-tools)
 - [DevOps Python tools](https://github.com/KhulnaSoft/DevX/tree/main/tools/python)
 - [DevOps Perl tools](https://github.com/KhulnaSoft/DevOps-Perl-tools)
 
-See also the [KhulnaSoft/Template-Repo](https://github.com/KhulnaSoft/Template-Repo)
+See also the [KhulnaSoft/project-template](https://github.com/KhulnaSoft/project-template)
 for quickly generating new GitHub repos containing all the basic CI/CD configurations, SonarCloud, README badges etc.
 
 ## New

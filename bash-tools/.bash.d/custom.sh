@@ -28,7 +28,7 @@ fi
 # put secret tokens in vars() or ~/.bashrc.local instead
 export GITHUB_USER=KhulnaSoft
 export TRAVIS_USER="KhulnaSoft"
-export BUILDKITE_ORGANIZATION=hari-sekhon
+export BUILDKITE_ORGANIZATION=khulnasoft
 export SEMAPHORE_CI_ORGANIZATION=khulnasoft
 
 alias tll="travis_last_log.py"

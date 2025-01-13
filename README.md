@@ -1,15 +1,15 @@
 # KhulnaSoft Ltd - Template Repo
 
-[![GitHub stars](https://img.shields.io/github/stars/KhulnaSoft/Template-Repo?logo=github)](https://github.com/KhulnaSoft/Template-Repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/KhulnaSoft/Template-Repo?logo=github)](https://github.com/KhulnaSoft/Template-Repo/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/KhulnaSoft/Template-Repo#Hari-Sekhon---Template-Repo)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/KhulnaSoft/Template-Repo/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/KhulnaSoft/project-template?logo=github)](https://github.com/KhulnaSoft/project-template/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/KhulnaSoft/project-template?logo=github)](https://github.com/KhulnaSoft/project-template/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/KhulnaSoft/project-template#Hari-Sekhon---Template-Repo)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/KhulnaSoft/project-template/blob/master/LICENSE)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-KhulnaSoft-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/KhulnaSoft/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/KhulnaSoft/Template-Repo?logo=github)](https://github.com/KhulnaSoft/Template-Repo/commits/master)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/KhulnaSoft/project-template?logo=github)](https://github.com/KhulnaSoft/project-template/commits/master)
 
 TODO: update Codacy grade link below - it's a hash so cannot be predicted to replace via `./customize.sh`
 
-[![Codacy](https://app.codacy.com/project/badge/Grade/abce2438224948fd93d462cd6aba3aaf)](https://www.codacy.com/gh/KhulnaSoft/Template-Repo/dashboard)
+[![Codacy](https://app.codacy.com/project/badge/Grade/abce2438224948fd93d462cd6aba3aaf)](https://www.codacy.com/gh/KhulnaSoft/project-template/dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/khulnasoft/Template-Repo/badge)](https://www.codefactor.io/repository/github/khulnasoft/Template-Repo)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=KhulnaSoft_Template-Repo&metric=alert_status)](https://sonarcloud.io/dashboard?id=KhulnaSoft_Template-Repo)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=KhulnaSoft_Template-Repo&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=KhulnaSoft_Template-Repo)
@@ -17,8 +17,8 @@ TODO: update Codacy grade link below - it's a hash so cannot be predicted to rep
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=KhulnaSoft_Template-Repo&metric=security_rating)](https://sonarcloud.io/dashboard?id=KhulnaSoft_Template-Repo)
 
 [![Python](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)](#readme)
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/khulnasoft/project-template/tree/main/scripts#hari-sekhon---devops-bash-tools)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/khulnasoft/project-template/tree/main/scripts#hari-sekhon---devops-bash-tools)
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/khulnasoft/project-template/tree/main/scripts#khulnasoft---devops-bash-tools)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/khulnasoft/project-template/tree/main/scripts#khulnasoft---devops-bash-tools)
 
 [![Mac Homebrew](https://img.shields.io/badge/Mac-Homebrew-999999?logo=apple&logoColor=white)](https://brew.sh/)
 [![Alpine](https://img.shields.io/badge/Linux-Alpine-0D597F?logo=alpine%20linux)](https://alpinelinux.org/)
@@ -32,22 +32,22 @@ TODO: update Codacy grade link below - it's a hash so cannot be predicted to rep
 <!-- TODO: Replace Azure DevOps Pipeline ID here -->
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://khulnasoft.github.io/CI-CD/)
 [![Azure DevOps Pipeline](https://dev.azure.com/khulnasoft/GitHub/_apis/build/status%2FTemplate-Repo?branchName=master)](https://dev.azure.com/khulnasoft/GitHub/_build/latest?definitionId=15&branchName=master)
-[![GitLab Pipeline](https://img.shields.io/badge/GitLab%20CI-legacy-lightgrey?logo=gitlab)](https://gitlab.com/KhulnaSoft/Template-Repo/pipelines)
-[![BitBucket Pipeline](https://img.shields.io/badge/Bitbucket%20CI-legacy-lightgrey?logo=bitbucket)](https://bitbucket.org/KhulnaSoft/Template-Repo/addon/pipelines/home#!/)
+[![GitLab Pipeline](https://img.shields.io/badge/GitLab%20CI-legacy-lightgrey?logo=gitlab)](https://gitlab.com/KhulnaSoft/project-template/pipelines)
+[![BitBucket Pipeline](https://img.shields.io/badge/Bitbucket%20CI-legacy-lightgrey?logo=bitbucket)](https://bitbucket.org/KhulnaSoft/project-template/addon/pipelines/home#!/)
 
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/KhulnaSoft/Template-Repo)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/KhulnaSoft/Template-Repo)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/KhulnaSoft/project-template)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/KhulnaSoft/project-template)
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/KhulnaSoft/GitHub/_git/Template-Repo)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/KhulnaSoft/Template-Repo)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/KhulnaSoft/project-template)
 
-[![Markdown](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/markdown.yaml/badge.svg)](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/markdown.yaml)
-[![Validation](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/validate.yaml/badge.svg)](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/validate.yaml)
-[![Kics](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/kics.yaml/badge.svg)](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/kics.yaml)
-[![Grype](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/grype.yaml/badge.svg)](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/grype.yaml)
-[![Semgrep](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/semgrep-cloud.yaml)
-[![SonarCloud](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/sonarcloud.yaml)
-[![Trivy](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/trivy.yaml/badge.svg)](https://github.com/KhulnaSoft/Template-Repo/actions/workflows/trivy.yaml)
+[![Markdown](https://github.com/KhulnaSoft/project-template/actions/workflows/markdown.yaml/badge.svg)](https://github.com/KhulnaSoft/project-template/actions/workflows/markdown.yaml)
+[![Validation](https://github.com/KhulnaSoft/project-template/actions/workflows/validate.yaml/badge.svg)](https://github.com/KhulnaSoft/project-template/actions/workflows/validate.yaml)
+[![Kics](https://github.com/KhulnaSoft/project-template/actions/workflows/kics.yaml/badge.svg)](https://github.com/KhulnaSoft/project-template/actions/workflows/kics.yaml)
+[![Grype](https://github.com/KhulnaSoft/project-template/actions/workflows/grype.yaml/badge.svg)](https://github.com/KhulnaSoft/project-template/actions/workflows/grype.yaml)
+[![Semgrep](https://github.com/KhulnaSoft/project-template/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/KhulnaSoft/project-template/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/KhulnaSoft/project-template/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/KhulnaSoft/project-template/actions/workflows/semgrep-cloud.yaml)
+[![SonarCloud](https://github.com/KhulnaSoft/project-template/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/KhulnaSoft/project-template/actions/workflows/sonarcloud.yaml)
+[![Trivy](https://github.com/KhulnaSoft/project-template/actions/workflows/trivy.yaml/badge.svg)](https://github.com/KhulnaSoft/project-template/actions/workflows/trivy.yaml)
 
 ## PUT CONTENT HERE
 

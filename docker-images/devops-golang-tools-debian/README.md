@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/KhulnaSoft/DevX/tree/main/tools/golang.svg?branch=master)](https://travis-ci.org/KhulnaSoft/DevX/tree/main/tools/golang)
 [![GitHub stars](https://img.shields.io/github/stars/khulnasoft/devops-golang-tools.svg)](https://github.com/KhulnaSoft/DevX/tree/main/tools/golang/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/khulnasoft/devops-golang-tools.svg)](https://github.com/KhulnaSoft/DevX/tree/main/tools/golang/network)
-[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20OS%20X-blue.svg)](https://github.com/KhulnaSoft/DevX/tree/main/tools/golang#hari-sekhon---devops-golang-tools)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20OS%20X-blue.svg)](https://github.com/KhulnaSoft/DevX/tree/main/tools/golang#khulnasoft---devops-golang-tools)
 [![DockerHub](https://img.shields.io/badge/docker-available-blue.svg)](https://hub.docker.com/r/khulnasoft/go-tools/)
 
 See a list of included programs with descriptions on the [GitHub project page](https://github.com/KhulnaSoft/DevX/tree/main/tools/golang).

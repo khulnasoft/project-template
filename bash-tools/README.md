@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/khulnasoft/devops-bash-tools?logo=github)](https://github.com/khulnasoft/project-template/tree/main/scripts/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/khulnasoft/devops-bash-tools?logo=github)](https://github.com/khulnasoft/project-template/tree/main/scripts/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-96k-lightgrey?logo=codecademy)](#hari-sekhon---devops-bash-tools)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-96k-lightgrey?logo=codecademy)](#khulnasoft---devops-bash-tools)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/khulnasoft/project-template/tree/main/scripts/blob/master/LICENSE)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-KhulnaSoft-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/KhulnaSoft/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/KhulnaSoft/DevOps-Bash-tools?logo=github)](https://github.com/khulnasoft/project-template/tree/main/scripts/commits/master)
@@ -21,8 +21,8 @@ doesn't detect shell code properly
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=KhulnaSoft_DevOps-Bash-tools&metric=ncloc)](https://sonarcloud.io/dashboard?id=KhulnaSoft_DevOps-Bash-tools)
 -->
 
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](#hari-sekhon---devops-bash-tools)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](#hari-sekhon---devops-bash-tools)
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](#khulnasoft---devops-bash-tools)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](#khulnasoft---devops-bash-tools)
 [![Docker](https://img.shields.io/badge/container-Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/r/khulnasoft/bash-tools)
 [![Dockerfile](https://img.shields.io/badge/repo-Dockerfiles-blue?logo=docker&logoColor=white)](https://github.com/KhulnaSoft/DevX/tree/main/docker-images)
 [![DockerHub Pulls](https://img.shields.io/docker/pulls/khulnasoft/bash-tools?label=DockerHub%20pulls&logo=docker&logoColor=white)](https://hub.docker.com/r/khulnasoft/bash-tools)
@@ -62,7 +62,7 @@ awkward URLs more nicely replaced with shields.io
 [![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/KhulnaSoft/TeamCity-CI)
 
 [![CircleCI](https://circleci.com/gh/KhulnaSoft/DevOps-Bash-tools.svg?style=svg)](https://circleci.com/gh/KhulnaSoft/DevOps-Bash-tools)
-[![BuildKite](https://img.shields.io/buildkite/f11bdd9690a9bac9a8edc6094dc2f2b9af3218a7a15d4ec17d/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/devops-bash-tools)
+[![BuildKite](https://img.shields.io/buildkite/f11bdd9690a9bac9a8edc6094dc2f2b9af3218a7a15d4ec17d/master?label=BuildKite&logo=buildkite)](https://buildkite.com/khulnasoft/devops-bash-tools)
 [![AppVeyor](https://img.shields.io/appveyor/build/khulnasoft/devops-bash-tools/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/KhulnaSoft/devops-bash-tools/branch/master)
 [![Drone](https://img.shields.io/drone/build/KhulnaSoft/DevOps-Bash-tools/master?logo=drone&label=Drone)](https://cloud.drone.io/KhulnaSoft/DevOps-Bash-tools)
 [![Codefresh](https://g.codefresh.io/api/badges/pipeline/khulnasoft/GitHub%2FDevOps-Bash-tools?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&type=cf-1)](https://g.codefresh.io/pipelines/edit/new/builds?id=5e53eaeea284e010982eaa6e&pipeline=DevOps-Bash-tools&projects=GitHub&projectId=5e52ca8ea284e00f882ea992&context=github&filter=page:1;pageSize:10;timeFrameStart:week)

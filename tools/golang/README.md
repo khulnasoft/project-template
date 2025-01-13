@@ -44,7 +44,7 @@
 [![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/KhulnaSoft/TeamCity-CI)
 
 [![CircleCI](https://circleci.com/gh/KhulnaSoft/DevX/tree/main/tools/golang.svg?style=svg)](https://circleci.com/gh/KhulnaSoft/DevX/tree/main/tools/golang)
-[![BuildKite](https://img.shields.io/buildkite/e2deddfa45087ac7984c456cb93319ef434ac996c7c1006833/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/devops-golang-tools)
+[![BuildKite](https://img.shields.io/buildkite/e2deddfa45087ac7984c456cb93319ef434ac996c7c1006833/master?label=BuildKite&logo=buildkite)](https://buildkite.com/khulnasoft/devops-golang-tools)
 [![AppVeyor](https://img.shields.io/appveyor/build/khulnasoft/DevOps-Golang-tools/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/KhulnaSoft/DevX/tree/main/tools/golang/branch/master)
 [![Drone](https://img.shields.io/drone/build/KhulnaSoft/DevX/tree/main/tools/golang/master?logo=drone&label=Drone)](https://cloud.drone.io/KhulnaSoft/DevX/tree/main/tools/golang)
 [![Codefresh](https://g.codefresh.io/api/badges/pipeline/khulnasoft/GitHub%2FDevOps-Golang-tools?key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&date=1609528430541)](https://g.codefresh.io/pipelines/edit/new/builds?id=5fef73e62e168ebc6dd24d07&pipeline=DevOps-Golang-tools&projects=GitHub&projectId=5fef73e62e168ebc6dd24d07&context=github&filter=page:1;pageSize:10;timeFrameStart:week)

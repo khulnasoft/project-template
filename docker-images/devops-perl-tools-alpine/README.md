@@ -4,7 +4,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/366f2da87b794566bbf194092752f25a)](https://www.codacy.com/gh/KhulnaSoft/DevOps-Perl-tools/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KhulnaSoft/DevOps-Perl-tools&amp;utm_campaign=Badge_Grade)
 [![GitHub stars](https://img.shields.io/github/stars/khulnasoft/devops-perl-tools.svg)](https://github.com/KhulnaSoft/DevOps-Perl-tools/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/khulnasoft/devops-perl-tools.svg)](https://github.com/KhulnaSoft/DevOps-Perl-tools/network)
-[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20OS%20X-blue.svg)](https://github.com/KhulnaSoft/DevOps-Perl-tools#hari-sekhon-tools)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20OS%20X-blue.svg)](https://github.com/KhulnaSoft/DevOps-Perl-tools#khulnasoft-tools)
 [![DockerHub](https://img.shields.io/badge/docker-available-blue.svg)](https://hub.docker.com/r/khulnasoft/perl-tools/)
 
 ### Hadoop, Hive, Solr, NoSQL, Web, Linux Tools ###
